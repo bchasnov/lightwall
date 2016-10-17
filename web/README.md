@@ -24,15 +24,25 @@ There are three modes to run through the Web Interface
 * View all student/teacher photos and code
 * Manage MongoDB database (Compass)
 
+### Stretch Goal
+View history and stats
+
 ## 3. Interactive page
-## Description
+### Description
 The interactive page is run at the control panel for the lighting display. It can only be viewed in the local network.
 
-## Requirements
+### Requirements
 Two pages
+
 * Innactive (webcam face tracking output)
 * Active (face detected and linked with user)
 
-### Stretch goal
+Mode selection
+
+1. Default
+2. User code (if active)
+3. L.E.D. LAB
+
+#### Stretch goal
 * Detect new user and sends new user email
  * Requires web scraping of student images and emails
