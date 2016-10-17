@@ -1,6 +1,6 @@
 # LightServer
 
-Give me code and I will run it on my light display.
+Give me code and I will run it on my light display. Otherwise, I'll just run the default code or do nothing.
 
 ## Requirement
 
