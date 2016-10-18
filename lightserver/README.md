@@ -3,8 +3,8 @@
 Give me code and I will run it on my light display. Otherwise, I'll just run the default code or do nothing.
 
 ## Requirement
-Uses a fork of heroic-pixel-pusher located in bchasnov/node-pixelpusher
-Pixelpusher on the same network and a network that allows streaming udp packets (no firewall).
+* Uses a fork of heroic-pixel-pusher located in bchasnov/node-pixelpusher
+* Pixelpusher on the same network and a network that allows streaming udp packets (no firewall).
 
 ## Getting Started
 ### Test the pixelpusher
