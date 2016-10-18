@@ -1,0 +1,8 @@
+{
+  "name": "lightserver",
+  "description": "Push code to a lighting display.",
+  "version": "0.1.0",
+  "dependencies": {
+    "heroic-pixel-pusher": "bchasnov/node-pixelpusher"
+    }
+}
